@@ -22,12 +22,12 @@ NuScenes-MQA annotations are available from [here](https://drive.google.com/driv
 
 ## BibTeX
 ```bibtex
-@misc{inoue2023nuscenesmqa,
-      title={NuScenes-MQA: Integrated Evaluation of Captions and QA for Autonomous Driving Datasets using Markup Annotations}, 
-      author={Yuichi Inoue and Yuki Yada and Kotaro Tanahashi and Yu Yamaguchi},
-      year={2023},
-      eprint={2312.06352},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV}
+@InProceedings{Inoue_2024_WACV,
+    author    = {Inoue, Yuichi and Yada, Yuki and Tanahashi, Kotaro and Yamaguchi, Yu},
+    title     = {NuScenes-MQA: Integrated Evaluation of Captions and QA for Autonomous Driving Datasets Using Markup Annotations},
+    booktitle = {Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) Workshops},
+    month     = {January},
+    year      = {2024},
+    pages     = {930-938}
 }
 ```
